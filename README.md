@@ -1,2 +1,2 @@
-# Friday
-friday's code and slideshow
+# GWC-Travel-2018.github.io
+Travel
